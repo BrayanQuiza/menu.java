@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">menu_BrayanQuiza</string>
+    <string name="open">open Navigation Brawer</string>
+    <string name="close">close Navigation Brawer</string>
+</resources>
